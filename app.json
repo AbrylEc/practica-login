@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "practica_login",
+    "slug": "practica_login",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/paint.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/hh.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
